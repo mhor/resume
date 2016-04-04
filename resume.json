@@ -1,0 +1,57 @@
+{
+  "basics": {
+    "name": "Maxime HORCHOLLE",
+    "label": "Developpeur PHP/Symfony2",
+    "email": "maxime.horcholle@gmail.com",
+    "website": "http://mhor.eu",
+    "location": {
+      "postalCode": "77290",
+      "city": "Mitry Mory",
+      "countryCode": "FR",
+      "region": "Paris"
+  },
+  "work": [
+    {
+      "company": "Cassini Solutions",
+      "position": "Developpeur",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description..."
+    }
+  ],
+  "education": [{
+    "institution": "University",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "PHP",
+      "Symfony",
+      "Twig",
+      "Doctrine",
+      "MongoDB",
+      "HTML",
+      "CSS",
+      "Javascript",
+    ]
+  }],
+  "languages": [
+    {
+      "name": "Français",
+      "level": "Native speaker"
+    },
+    {
+      "name": "Français",
+      "level": "Bon"
+    }
+  ]
+}
