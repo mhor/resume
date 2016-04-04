@@ -12,24 +12,55 @@
   },
   "work": [
     {
-      "company": "Cassini Solutions",
+      "company": "Socloz",
+      "position": "Developpeur Symfony2",
+      "startDate": "2014-09-01"
+    },
+    {
+      "company": "HappyEnd (En Alternance)(Paris)",
+      "position": "Développeur PHP / Symfony2 / MySQL / Prestashop",
+      "startDate": "2013-11-01",
+      "endDate": "2014-09-01",
+      "summary": "
+        - Écriture d'une API en Symfony2
+        - Redéveloppement d'un site Prestashop
+      "
+    },
+    {
+      "company": "Cassini-Solutions (En Alternance)(Boulogne - Billancourt)",
       "position": "Developpeur",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description..."
+      "startDate": "2011-09-01",
+      "endDate": "2013-11-01",
+      "summary": "
+        - Maintenance et amélioration des produits existant
+        - Recherche sur l’intégration continue en PHP
+        - Réécriture d’un logiciel avec Symfony2
+        - Écriture de fonctions, triggers, vues sur Postgresql
+        - Utilisation de PHPExcel pour la génération de fichier Excel avec PHP
+        - Parsing de fichier XML avec DOM et SAX en PHP
+      "
+    },
+  ],
+  "education": [
+    {
+      "area": "Esgi(Paris)",
+      "studyType": "Master Architecture des Logiciels",
+      "startDate": "2012-09-01",
+      "endDate": "2014-09-01"
+    },
+    {
+      "area": "Université Paris VIII(Montreuil)",
+      "studyType": "Licence Professionnelle Conception des systèmes d'information, intégration et décision",
+      "startDate": "2011-09-01",
+      "endDate": "2012-09-01"
+    },
+    {
+      "area": "Lycée Voillaume",
+      "studyType": "BTS Informatique de Gestion",
+      "startDate": "2009-09-01",
+      "endDate": "2011-09-01"
     }
   ],
-  "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
   "skills": [{
     "name": "Web Development",
     "level": "Master",
@@ -42,15 +73,12 @@
       "HTML",
       "CSS",
       "Javascript",
+      "GIT"
     ]
   }],
   "languages": [
     {
-      "name": "Français",
-      "level": "Native speaker"
-    },
-    {
-      "name": "Français",
+      "name": "Anglais",
       "level": "Bon"
     }
   ]
