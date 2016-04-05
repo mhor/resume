@@ -1,85 +1,115 @@
 {
   "basics": {
-    "name": "Maxime HORCHOLLE",
-    "label": "Developpeur PHP/Symfony2",
+    "name": "Maxime Horcholle",
+    "label": "Developpeur PHP/Symfony",
+    "picture": "",
     "email": "maxime.horcholle@gmail.com",
+    "phone": "",
     "website": "http://mhor.eu",
+    "summary": "",
     "location": {
+      "address": "",
       "postalCode": "77290",
       "city": "Mitry Mory",
       "countryCode": "FR",
       "region": "Paris"
+    },
+    "profiles": []
   },
   "work": [
     {
       "company": "Socloz",
-      "position": "Developpeur Symfony2",
-      "startDate": "2014-09-01"
+      "position": "Developeur Symfony",
+      "website": "http://www.socloz.com",
+      "startDate": "2014-09-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
     },
     {
-      "company": "HappyEnd (En Alternance)(Paris)",
+      "company": "HappyEnd (En Alternance) (Paris)",
       "position": "Développeur PHP / Symfony2 / MySQL / Prestashop",
+      "website": "",
       "startDate": "2013-11-01",
       "endDate": "2014-09-01",
-      "summary": "
-        - Écriture d'une API en Symfony2
-        - Redéveloppement d'un site Prestashop
-      "
+      "summary": "",
+      "highlights": [
+        "Écriture d'une API en Symfony2",
+        "Redéveloppement d'un site Prestashop"
+      ]
     },
     {
-      "company": "Cassini-Solutions (En Alternance)(Boulogne - Billancourt)",
+      "company": "Cassini-Solutions (En Alternance) (Boulogne - Billancourt)",
       "position": "Developpeur",
+      "website": "",
       "startDate": "2011-09-01",
       "endDate": "2013-11-01",
-      "summary": "
-        - Maintenance et amélioration des produits existant
-        - Recherche sur l’intégration continue en PHP
-        - Réécriture d’un logiciel avec Symfony2
-        - Écriture de fonctions, triggers, vues sur Postgresql
-        - Utilisation de PHPExcel pour la génération de fichier Excel avec PHP
-        - Parsing de fichier XML avec DOM et SAX en PHP
-      "
-    },
+      "summary": "",
+      "highlights": [
+        "Maintenance et amélioration des produits existant",
+        "Recherche sur l’intégration continue en PHP",
+        "Réécriture d’un logiciel avec Symfony2",
+        "Écriture de fonctions, triggers, vues sur Postgresql",
+        "Utilisation de PHPExcel pour la génération de fichier Excel avec PHP",
+        "Parsing de fichier XML avec DOM et SAX en PHP"
+      ]
+    }
   ],
+  "volunteer": [],
   "education": [
     {
-      "area": "Esgi(Paris)",
-      "studyType": "Master Architecture des Logiciels",
+      "institution": "Esgi (Paris)",
+      "area": "Architecture des Logiciels",
+      "studyType": "Master",
       "startDate": "2012-09-01",
-      "endDate": "2014-09-01"
+      "endDate": "2014-09-01",
+      "gpa": "",
+      "courses": []
     },
     {
-      "area": "Université Paris VIII(Montreuil)",
-      "studyType": "Licence Professionnelle Conception des systèmes d'information, intégration et décision",
+      "institution": "Université Paris VIII (Montreuil)",
+      "area": "Conception des systèmes d'information, intégration et décision",
+      "studyType": "Licence Professionnelle",
       "startDate": "2011-09-01",
-      "endDate": "2012-09-01"
+      "endDate": "2012-09-01",
+      "gpa": "",
+      "courses": []
     },
     {
-      "area": "Lycée Voillaume",
-      "studyType": "BTS Informatique de Gestion",
+      "institution": "Lycée Voillaume",
+      "area": "Informatique de Gestion",
+      "studyType": "BTS",
       "startDate": "2009-09-01",
-      "endDate": "2011-09-01"
+      "endDate": "2011-09-01",
+      "gpa": "",
+      "courses": []
     }
   ],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "PHP",
-      "Symfony",
-      "Twig",
-      "Doctrine",
-      "MongoDB",
-      "HTML",
-      "CSS",
-      "Javascript",
-      "GIT"
-    ]
-  }],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+        "Symfony",
+        "Doctrine",
+        "Twig",
+        "HTML",
+        "CSS",
+        "Javacript",
+        "SQL",
+        "MongoDB"
+      ]
+    }
+  ],
   "languages": [
     {
-      "name": "Anglais",
-      "level": "Bon"
+      "language": "Anglais",
+      "fluency": "Bon"
     }
-  ]
+  ],
+  "interests": [],
+  "references": []
 }
